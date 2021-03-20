@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jlecasado
+- 👀 I’m interested in mainly backend and logic, also big data and machine learning
+- 🌱 I’m currently learning MEAN stack (I want to make my first web :)
+- 💞️ I’m looking to collaborate on opensource projects
+- 📫 How to reach me jlecasado@gmail.com
